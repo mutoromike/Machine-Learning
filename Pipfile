@@ -7,6 +7,9 @@ verify_ssl = true
 
 [packages]
 pandas = "*"
+seaborn = "*"
+matplotlib = "*"
+sklearn = "*"
 
 [requires]
 python_version = "3.7"
